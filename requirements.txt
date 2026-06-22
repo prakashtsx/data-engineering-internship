@@ -63,8 +63,10 @@ prompt_toolkit==3.0.52
 psutil==7.2.2
 ptyprocess==0.7.0
 pure_eval==0.2.3
+py4j==0.10.9.9
 pycparser==3.0
 Pygments==2.20.0
+pyspark==4.1.2
 python-dateutil==2.9.0.post0
 python-json-logger==4.1.0
 PyYAML==6.0.3
