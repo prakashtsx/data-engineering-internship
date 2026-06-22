@@ -1,0 +1,9 @@
+id,name,age,category,region,amount
+1,Alice,28,Electronics,North,1200.0
+2,Bob,35,Clothing,South,450.0
+3,Charlie,,Electronics,East,700.0
+4,David,42,   CLOTHING   ,West,300.0
+1,Alice,28,Electronics,North,1200.0
+5,Eva,19,Home,North,
+6,Frank,50,Electronics,South,2200.0
+7,Grace,65,Home,invalid_region,150.0
